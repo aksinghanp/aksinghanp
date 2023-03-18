@@ -1,4 +1,4 @@
-![logo](https://github.com/aksinghanp/aksinghanp/blob/master/githubbanner.png)
+![logo](https://github.com/aksinghanp/aksinghanp/blob/master/banner.jpg)
 <h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
